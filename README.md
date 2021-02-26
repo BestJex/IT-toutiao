@@ -10,7 +10,7 @@
 > 
 > 后续会购买服务器并部署，现在没时间部署，见谅
 > 
-**相关资源**：  [IT头条内容发布管理系统](https://github.com/feng-yu-jian/IT-toutiao-admin)
+**相关资源**：  [Vue.js PC端项目--IT头条内容发布管理系统](https://github.com/feng-yu-jian/IT-toutiao-admin)
 
 项目已经完成功能如下：
 
