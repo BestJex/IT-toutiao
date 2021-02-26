@@ -21,12 +21,14 @@
 ![个人中心.png](https://i.loli.net/2021/02/26/jGKCdVXpAUt6QmW.png)
 
 
+
 **首页**
    -  频道列表
    -  频道编辑
    -  文章列表
 
 ![首页.png](https://i.loli.net/2021/02/26/A6aFkrP3vVc2mLW.png)
+
 
 
 **搜索**
@@ -37,12 +39,14 @@
 ![搜索结果.png](https://i.loli.net/2021/02/26/oqmunStx9bcFwR7.png)
 
 
+
 **文章详情**
    -  关注用户
    -  文章收藏
    -  文章点赞
 
 ![文章详情.png](https://i.loli.net/2021/02/26/wV5eUYja7h2bRoT.png)
+
 
 
 **文章评论**
