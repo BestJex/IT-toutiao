@@ -22,7 +22,7 @@
   - 我的作品
 
 <center>
-    <img src="https://i.loli.net/2021/02/26/2SnTlQmFsN9tdaZ.png" style="zoom: 42%;"/><img src="https://i.loli.net/2021/02/26/K3hOeao9fTjNclR.png" style="zoom: 42%;"/><img src="https://i.loli.net/2021/02/26/IMQ3z1m4yHWqTh9.png" style="zoom: 42%;"/>
+    <img src="https://i.loli.net/2021/02/26/2SnTlQmFsN9tdaZ.png" width="200"/><img src="https://i.loli.net/2021/02/26/K3hOeao9fTjNclR.png" width="200"/><img src="https://i.loli.net/2021/02/26/IMQ3z1m4yHWqTh9.png" width="200"/>
 </center>
 
 
