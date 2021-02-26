@@ -34,9 +34,9 @@
    -  文章列表
 
 <figure>
-    <img src="https://i.loli.net/2021/02/26/OvgLM6rTG8YiHs5.png" style="zoom: 42%;"/>
-    <img src="https://i.loli.net/2021/02/26/UpmtZ5SiBaDJIR3.png" style="zoom: 42%;"/>
-  	<img src="https://i.loli.net/2021/02/26/jBzMF3SmRoQPKbv.png" style="zoom: 42%;"/>
+    <img src="https://i.loli.net/2021/02/26/OvgLM6rTG8YiHs5.png" width="300"/>
+    <img src="https://i.loli.net/2021/02/26/UpmtZ5SiBaDJIR3.png" width="300"/>
+  	<img src="https://i.loli.net/2021/02/26/jBzMF3SmRoQPKbv.png" width="300"/>
 </figure>
 
 
@@ -47,9 +47,9 @@
 
 
 <figure>
-    <img src="https://i.loli.net/2021/02/26/CgLERmeW6AQd5bh.png" style="zoom: 42%;"/>
-    <img src="https://i.loli.net/2021/02/26/X9pnPjOozJghfks.png" style="zoom: 42%;"/>
-  	<img src="https://i.loli.net/2021/02/26/8nUxHcT3uzlkY2b.png" style="zoom: 42%;"/>
+    <img src="https://i.loli.net/2021/02/26/CgLERmeW6AQd5bh.png" width="300"/>
+    <img src="https://i.loli.net/2021/02/26/X9pnPjOozJghfks.png" width="300"/>
+  	<img src="https://i.loli.net/2021/02/26/8nUxHcT3uzlkY2b.png" width="300"/>
 </figure>
 
 
@@ -59,7 +59,7 @@
    -  文章点赞
 
 <figure>
-    <img src="https://i.loli.net/2021/02/26/8yQO5YrUxwCXjuG.png" style="zoom: 42%;"/>
+    <img src="https://i.loli.net/2021/02/26/8yQO5YrUxwCXjuG.png" width="300"/>
 </figure>
 
 
@@ -71,8 +71,8 @@
    -  评论点赞
 
 <figure>
-    <img src="https://i.loli.net/2021/02/26/nO6wIkWCUbXoapl.png" style="zoom: 50%;"/>
-    <img src="https://i.loli.net/2021/02/26/JzuyrqiwIWVAcNk.png" style="zoom: 50%;"/>
+    <img src="https://i.loli.net/2021/02/26/nO6wIkWCUbXoapl.png" width="300"/>
+    <img src="https://i.loli.net/2021/02/26/JzuyrqiwIWVAcNk.png" width="300"/>
 </figure>
 
 
