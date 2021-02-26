@@ -9,6 +9,7 @@
 > 接口来源于开源接口，该接口不支持https，所以我没有部署到GitHub Pages，不过可以完美的在本地运行，你可以clone下来自己体验一下
 > 
 > 后续会购买服务器并部署，现在没时间部署，见谅
+> **IT头条内容发布管理系统**: `https://github.com/feng-yu-jian/IT-toutiao-admin`
 
 项目已经完成功能如下：
 
