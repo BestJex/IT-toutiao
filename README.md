@@ -26,6 +26,7 @@
    -  频道编辑
    -  文章列表
 
+![首页.png](https://i.loli.net/2021/02/26/A6aFkrP3vVc2mLW.png)
 
 
 -  搜索
@@ -33,6 +34,7 @@
    -  搜索历史记录
    -  搜索结果
 
+![搜索结果.png](https://i.loli.net/2021/02/26/oqmunStx9bcFwR7.png)
 
 
 -  文章详情
@@ -40,6 +42,7 @@
    -  文章收藏
    -  文章点赞
 
+![文章详情.png](https://i.loli.net/2021/02/26/wV5eUYja7h2bRoT.png)
 
 
 -  文章评论
@@ -49,6 +52,7 @@
    -  发布评论回复
    -  评论点赞
 
+![评论.png](https://i.loli.net/2021/02/26/UZadMSncgrFDzGV.png)
 
 
 
