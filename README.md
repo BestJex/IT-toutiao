@@ -21,7 +21,6 @@
 
   - 我的作品
 
-<center class="third"><img src="https://i.loli.net/2021/02/26/2SnTlQmFsN9tdaZ.png" width="300"/><img src="https://i.loli.net/2021/02/26/K3hOeao9fTjNclR.png" width="300"/><img src="https://i.loli.net/2021/02/26/IMQ3z1m4yHWqTh9.png" width="300"/></center>
 
 
 -  首页
@@ -29,11 +28,6 @@
    -  频道编辑
    -  文章列表
 
-<figure>
-    <img src="https://i.loli.net/2021/02/26/OvgLM6rTG8YiHs5.png" width="300"/>
-    <img src="https://i.loli.net/2021/02/26/UpmtZ5SiBaDJIR3.png" width="300"/>
-  	<img src="https://i.loli.net/2021/02/26/jBzMF3SmRoQPKbv.png" width="300"/>
-</figure>
 
 
 -  搜索
@@ -42,21 +36,12 @@
    -  搜索结果
 
 
-<figure>
-    <img src="https://i.loli.net/2021/02/26/CgLERmeW6AQd5bh.png" width="300"/>
-    <img src="https://i.loli.net/2021/02/26/X9pnPjOozJghfks.png" width="300"/>
-  	<img src="https://i.loli.net/2021/02/26/8nUxHcT3uzlkY2b.png" width="300"/>
-</figure>
-
 
 -  文章详情
    -  关注用户
    -  文章收藏
    -  文章点赞
 
-<figure>
-    <img src="https://i.loli.net/2021/02/26/8yQO5YrUxwCXjuG.png" width="300"/>
-</figure>
 
 
 -  文章评论
@@ -66,10 +51,6 @@
    -  发布评论回复
    -  评论点赞
 
-<figure>
-    <img src="https://i.loli.net/2021/02/26/nO6wIkWCUbXoapl.png" width="300"/>
-    <img src="https://i.loli.net/2021/02/26/JzuyrqiwIWVAcNk.png" width="300"/>
-</figure>
 
 
 
