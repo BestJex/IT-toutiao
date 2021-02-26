@@ -21,9 +21,7 @@
 
   - 我的作品
 
-<figure class="third">
-  <img src="https://i.loli.net/2021/02/26/2SnTlQmFsN9tdaZ.png" width="300"/><img src="https://i.loli.net/2021/02/26/K3hOeao9fTjNclR.png" width="300"/><img src="https://i.loli.net/2021/02/26/IMQ3z1m4yHWqTh9.png" width="300"/>
-</figure>
+<figure class="third"><img src="https://i.loli.net/2021/02/26/2SnTlQmFsN9tdaZ.png" width="300"/><img src="https://i.loli.net/2021/02/26/K3hOeao9fTjNclR.png" width="300"/><img src="https://i.loli.net/2021/02/26/IMQ3z1m4yHWqTh9.png" width="300"/></figure>
 
 
 -  首页
